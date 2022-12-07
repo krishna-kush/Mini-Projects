@@ -128,6 +128,6 @@ while run[0].lower() == 'y':
 print('THANKS FOR PLAYING!!!')
 
 time.sleep(1)
-# clear()
+clear()
             
 
